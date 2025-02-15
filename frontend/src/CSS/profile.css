@@ -1,0 +1,31 @@
+*{
+    color: #fff;
+}
+.overall-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+img{
+    width: 100px;
+}
+.name{
+    font-size: 35px;
+    text-transform: uppercase;
+}
+.outer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.outer-container p {
+    padding: 5px;
+    margin: 15px;
+}
+
+
+  
+  option{
+      color: black;
+  }
